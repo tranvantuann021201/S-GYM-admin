@@ -1,0 +1,45 @@
+.container {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.video-guide-column {
+    height: 120px;
+}
+
+.description-column {
+  height: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.name-column {
+  width: 200px;
+  text-align: center;
+}
+
+.edit-button {
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+.delete-button {
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+  background-color: rgb(224, 31, 31);
+  border: 0;
+}
+
+.delete-button :hover {
+  background-color: rgb(167, 70, 70);
+}
+
+
+.detail {
+  text-align: center;
+}
+
+
+
